@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AQ231970
-- 👀 I’m interested in data science and statistical programming
+- 👀 I’m interested in gis, data science and spatial staatistics 
 - 🌱 I’m currently learning R, SQL, VBA, Web Dev
 
 <!---
