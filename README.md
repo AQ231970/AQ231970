@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aysha
-- 👀 I’m interested in GIS, Data and Analytics and Spatial Statistics and Analysis 
+- 👀 I’m interested in GIS, Data and Analytics and Spatial Statistics  
 - 🌱 I’m currently learning Microsoft Azure
 
 <!---
